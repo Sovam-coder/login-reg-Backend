@@ -7,7 +7,8 @@ Register Schema
 "Name":"Sovam Kumar Pradhan",
 "Email id":"sovam121@gmail.com",
 "Password":"12082000",
-"College":"GIET University"
+"College":"GIET University",
+"Photo":"sovam.jpg"
 }
  
  Login with Jwt Web Token
@@ -18,5 +19,6 @@ Register Schema
  _id:1235677,
  Name:"Sovam Kumar Pradhan"
  Email_id: "sovam121@gmail.com"
- college:"GIET University"
+ college:"GIET University",
+ photo:"sovam.jpg"
 }
